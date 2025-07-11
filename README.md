@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Amy!
 
 🚀 Business Developer | 🐍 Python Enthusiast | 🛒 E-commerce & Strategy Student  
 
