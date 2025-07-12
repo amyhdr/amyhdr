@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Amy!
 
-🚀 Business Developer | 🐍 Python Enthusiast | 🛒 E-commerce & Strategy Student  
+🚀 Business Developer | 🐍 Python Enthusiast | 🛒 E-commerce Student  
 
 Welcome to my GitHub profile! I'm passionate about bridging the gap between business strategy and technology. As an MBA student focused on strategic management and e-commerce, I enjoy applying Python and data-driven tools to solve real-world business challenges.
 
